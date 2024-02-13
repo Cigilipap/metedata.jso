@@ -1,5 +1,5 @@
 {
-  "name": "metehan",
+  "name": "metostos",
   "website": "https://github.com/Cigilipap",
   "description": "node runner",
   "logo": "https://i.hizliresim.com/tbx9sbm.png",
